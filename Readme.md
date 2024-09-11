@@ -1,0 +1,1 @@
+#This website is Responsive for max-width:471px
